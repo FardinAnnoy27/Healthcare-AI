@@ -1,0 +1,10 @@
+flask
+python-dotenv
+langchain
+langchain-classic
+langchain-groq
+langchain-chroma
+langchain-huggingface[full]
+langchain-text-splitters
+langchain-community
+pypdf
